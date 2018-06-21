@@ -1,0 +1,14 @@
+# Sensitive or high-churn files:
+.idea/
+
+## File-based project format:
+*.iws
+
+.DS_Store
+*/vendor/
+
+.env
+
+*/cache/*
+
+arquivoignorado.txt
